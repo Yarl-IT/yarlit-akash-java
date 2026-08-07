@@ -1,29 +1,29 @@
 class PrimitiveData{
 	public static void main(String args[]){
-		Byte b1;
+		byte b1;
 		b1 = 12;
 		System.out.println("Byte :"+b1);
 		
-		Short s1;
+		short s1;
 		s1 = 32000;
 		System.out.println("Short :"+s1);
 		
 		int i = 65022;
 		System.out.println("Int :"+i);
 		
-		Long l;
+		long l;
 		l = 6511585552556L;
 		System.out.println("Long :"+l);
 		
-		Float f1;
+		float f1;
 		f1 = 15.4f;
 		System.out.println("Float :"+f1);
 		
-		Double db;
+		double db;
 		db = 35D;
 		System.out.println("Double :"+db);
 		
-		Boolean bool;
+		boolean bool;
 		bool = true;
 		System.out.println("Boolean :"+bool);
 		
