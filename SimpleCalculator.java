@@ -6,11 +6,10 @@ class SimpleCalculator{
 		
 		System.out.print("Enter First Number :");
 		double num1 = input.nextDouble();
-		input.nextLine();
-		
+				
 		System.out.print("Enter Second Number :");
 		double num2 = input.nextDouble();
-		input.nextLine();
+		
 		System.out.println("");
 		System.out.print("Choose Operations :\n1. Addition (+)\n2. Subtraction (-)\n3. Multiplication (*)\n4. Division (/)\n");
 		
